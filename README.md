@@ -1,8 +1,3 @@
-<!-- FOREST BANNER -->
-<p align="center">
-  <img src="./assets/forest-banner.png" width="100%" alt="Enchanted Forest Banner">
-</p>
-
 <h1 align="center">🌿 Welcome to My Little Grove 🍄</h1>
 
 <p align="center">
@@ -31,6 +26,11 @@ A little collection of my personal creative work, where I share my love for equi
 
 - 🐴 Custom SWEM horse coats and textures
 - 🎨 Digital artwork and illustrations
+
+    <a href="https://ko-fi.com/vilegag">
+    <img src="https://img.shields.io/badge/Support_Me_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+</p>
 
 ### 🌳 Official SafeHaven
 
